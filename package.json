@@ -1,0 +1,26 @@
+{
+  "name": "npm-wait",
+  "version": "0.0.1",
+  "description": "Wait for a specific event to happen before executing a command",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuashe/npm-wait.git"
+  },
+  "bin": {
+    "npm-wait": "bin/npm-wait.js"
+  },
+  "keywords": [
+    "npm",
+    "wait"
+  ],
+  "author": "kuashe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuashe/npm-wait/issues"
+  },
+  "homepage": "https://github.com/kuashe/npm-wait#readme"
+}
